@@ -45,5 +45,3 @@ Every 20 seconds that we receive data from the socket, the map displays the poin
 # The Heatmap
 
 <p align="center"><img src="https://github.com/akotronis/DIT170-1/blob/master/resources/map.gif" alt="Heatmap" width="500"/></p>
-
-<!-- ![](https://github.com/akotronis/DIT170-1/blob/master/resources/map.gif) -->
